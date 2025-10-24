@@ -12,6 +12,9 @@ Just a simple python project to visually compare simulated vs mathematical proba
 1. Random
 2. Matplotlib
 
+## Useful-links
+1. https://en.wikipedia.org/wiki/Law_of_large_numbers
+
 Thankyou!
 
 https://www.linkedin.com/in/dhivkrish7/
